@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1BP8QDXFUYzW74meXScqYQXW2wAZ0v1jY/view?usp=drive_link](https://drive.google.com/file/d/1BP8QDXFUYzW74meXScqYQXW2wAZ0v1jY/view?usp=drive_link)
 
-- ⚡ Fun fact **I love watching Anime**
+- ⚡ Fun fact **I love reading manga and manhwa**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
