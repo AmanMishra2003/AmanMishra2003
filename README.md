@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Mishra</h1>
 <h3 align="center">An aspiring Full-Stack developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanmishra2003" alt="amanmishra2003" /></a> </p>
-
 - 🌱 I’m currently learning **Express,NodeJs Web application Framework**
 
 - 💬 Ask me about **Django**
