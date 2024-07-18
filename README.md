@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Express,NodeJs Web application Framework**
 
-- 💬 Ask me about **Express**
+- 💬 Ask me about **ReactJs**
 
 - 📫 How to reach me **Mishraaman2021@gmail.com**
 
