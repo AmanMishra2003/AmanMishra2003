@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aman Mishra</h1>
 <h3 align="center">An aspiring Full-Stack developer</h3>
 
-- 🌱 I’m currently learning **Express,NodeJs Web application Framework**
+- 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **ReactJs**
+- 💬 Ask me about **Express,NodeJs Web application Framework**
 
 - 📫 How to reach me **Mishraaman2021@gmail.com**
 
