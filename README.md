@@ -9,7 +9,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1BP8QDXFUYzW74meXScqYQXW2wAZ0v1jY/view?usp=drive_link](https://drive.google.com/file/d/1KbehLW90YdCq7r7XbbIsL-oOBu6l20mB/view?usp=drive_link)
 
-- 
 
 - ⚡ Fun fact **I love reading manga and manhwa**
 
