@@ -137,5 +137,4 @@ Open to internship opportunities and collaborations on interesting full-stack / 
 <p align="center">
   <a href="https://linkedin.com/in/amanmishra2003"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32"></a>
   <a href="https://twitter.com/amanmis71164836"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="32"></a>
-  <a href="https://instagram.com/_a.man_03"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="32"></a>
 </p>
